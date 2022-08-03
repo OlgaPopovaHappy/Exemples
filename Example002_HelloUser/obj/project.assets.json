@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Хозяин\\Desktop\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
-      "projectName": "Example002_HelloUser",
-      "projectPath": "C:\\Users\\Хозяин\\Desktop\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
+      "projectUniqueName": "C:\\Users\\Хозяин\\Desktop\\рабочая\\Examples\\Exemple002_HelloUser\\Exemple002_HelloUser.csproj",
+      "projectName": "Exemple002_HelloUser",
+      "projectPath": "C:\\Users\\Хозяин\\Desktop\\рабочая\\Examples\\Exemple002_HelloUser\\Exemple002_HelloUser.csproj",
       "packagesPath": "C:\\Users\\Хозяин\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Хозяин\\Desktop\\Examples\\Example002_HelloUser\\obj\\",
+      "outputPath": "C:\\Users\\Хозяин\\Desktop\\рабочая\\Examples\\Exemple002_HelloUser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Хозяин\\AppData\\Roaming\\NuGet\\NuGet.Config"
